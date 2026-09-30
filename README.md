@@ -3,7 +3,7 @@
 This repository contains data and code associated with a study of influenza A(H3N2) hemagglutinin (HA) sequences. It is intended to document the input data, sequence-processing steps, and analyses used in the study.
 
 > **Manuscript status:** [In preparation]  
-> **Associated publication:** [Add the paper title, citation, and DOI when available]
+> **Associated publication:** [A broadly neutralizing H3N2 antibody defines a conserved hemagglutinin head epitope breached by recent stepwise antigenic drift]
 
 ## Repository contents
 
